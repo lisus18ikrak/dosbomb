@@ -32,16 +32,6 @@ You can then use the `-x` option to activate SOCKS5 support and the `--proxy-hos
 It is possible to modify the behaviour of dosbomb with command-line
 arguments. In order to get an up-to-date help document, just run
 `python3 dosbomb.py -h`.
-
-
-
-
-
-
-
-
-<h5>Note:</h6>
-If you find any problems than please write on issue github and to our Telegram Group. Don't use for revenge! Make sure your anonymity! It's made for just testing purpose. We are not responsible for any abuse or damage caused by this program. Only for Educational Purpose. Thanks.
 * -p, --port
 * * Port of webserver, usually 80
 * -s, --sockets
@@ -57,3 +47,10 @@ If you find any problems than please write on issue github and to our Telegram G
 * --sleeptime
 * * Time to sleep between each header sent
 
+
+
+
+
+
+<h5>Note:</h6>
+If you find any problems than please write on issue github and to our Telegram Group. Don't use for revenge! Make sure your anonymity! It's made for just testing purpose. We are not responsible for any abuse or damage caused by this program. Only for Educational Purpose. Thanks.
